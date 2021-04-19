@@ -8,7 +8,7 @@ Improved version of Multiple Objective Particle Swarm Optimization (MOPSO), that
 5. presents a more user-friendly method to set options is also included, and
 6. supports vectorized functions.
 
-Two advanced convergence criteria are based on:
+The two advanced convergence criteria are based on:
 1. the spread measure and 
 2. quadratic mean of the crouding distances, which enhance the standard criterion based on maximum number of iterations.
 
